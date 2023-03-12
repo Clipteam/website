@@ -1,0 +1,18 @@
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(60deg, #0072F5, #4c97ff);
+  --vp-home-hero-image-filter: drop-shadow(0, 0, 40px, rgba(0, 0, 0, 20));
+  
+  --vp-c-brand: #0072F5;
+  
+  --vp-button-brand-bg: #4C97FF;
+  --vp-button-brand-border: #0072F5;
+  --vp-button-brand-hover-bg: #4C97FF;
+  --vp-button-brand-hover-border: #0072F5;
+  --vp-button-brand-active-bg: #3373CC;
+  --vp-button-brand-active-border: #0072F5;
+}
+
+.VPHero .VPImage.image-src {
+  max-height: 144px;
+}
