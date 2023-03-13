@@ -20,6 +20,12 @@ export default defineConfig({
           { text: 'What is ClipCC', link: '/doc/intro' },
           { text: 'Install', link: '/doc/install' },
         ]
+      },
+      {
+        text: 'Features',
+        items: [
+          { text: 'Custom FPS', link: '/doc/features/fps' },
+        ]
       }
     ],
 
