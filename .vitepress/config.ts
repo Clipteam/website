@@ -24,7 +24,9 @@ export default defineConfig({
       {
         text: 'Features',
         items: [
+          { text: 'Custom Reporter', link: '/doc/features/custom-reporter' },
           { text: 'Custom FPS', link: '/doc/features/fps' },
+          { text: 'Addons', link: '/doc/features/addons' },
         ]
       }
     ],

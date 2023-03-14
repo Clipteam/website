@@ -27,6 +27,12 @@ features:
     details: Convert blocks to JavaScript code, Make projects runs faster than ever.
   - title: 🌸 New UI
     details: A more efficient and elegant UI, with dark mode support.
+  - title: 🎨 High-Quality Pen
+    details: Draw by your screen resolution to make lines sharper.
+  - title: 🐢 Custom FPS
+    details: It is up to you to decide at what FPS the project runs.
+  - title: 🍙 Useful blocks
+    details: Added some utility blocks (e.g. text printing, bit operations) to empowering your projects.
   - title: 🍡 Modern workflow
     details: On the base of upgrading to webpack5, a large number of Scratch workflows have been improved.
   - title: ✨ Addons (Optional)
